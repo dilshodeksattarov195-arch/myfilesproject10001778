@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyrave",
+        "uuid": 4820158,
+        "checksum": "bs8y99"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
